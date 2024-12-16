@@ -1,2 +1,2 @@
 def test(numero: int):
-    print(numero)
+    print(f"El numero dos veces es: {numero*2}")
